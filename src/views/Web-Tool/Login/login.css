@@ -1,0 +1,18 @@
+.login-btn {
+    margin: 0px;
+    width: 120px;
+}
+.reset-btn {
+    margin: 0px 15px;
+    width: 120px;
+}
+.layout-row {
+    border: 1px solid #00000036;
+    padding: 30px;
+    margin: 30px auto !important;
+    max-width: 745px;
+}
+.flex {
+    align-items: center;
+    display: flex;
+}
